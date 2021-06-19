@@ -17,8 +17,8 @@ _(September 2018 - May 2019)_
 
 ### Education
 `present`
-**Bachelor of Science** in Maths and Computer Science
-**Bauman State Technical University** in @ [MSTU](https://bmstu.ru/) 
+**Bachelor of Science** in Maths and Computer Science <br>
+***Bauman State Technical University*** in @ [MSTU](https://bmstu.ru/) 
 _2018 - present_
 
 ### Accomplishments
