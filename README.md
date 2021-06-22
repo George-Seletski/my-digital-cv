@@ -9,7 +9,7 @@ _(September 2018 - May 2019)_
 - Studied Basics of Python
 - Data Structers
 - And basics of API
-- _**Technologies used:**_ Python, BotFather, Weather forecast API
+- _**Technologies used:**_ Python, BotFather, Weather forecast API,Git
 
 ### Languages 
 ***Russian:*** Native<br/>
