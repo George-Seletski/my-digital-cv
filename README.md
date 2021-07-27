@@ -1,7 +1,11 @@
 # George Seletski
-_Student based in Moscow,Russia_
+_Moscow,Russia_
 
 [Twitter](https://twitter.com/seletskygeo) / [DEV](https://dev.to/georgeseletski) / [GitHub](https://github.com/George-Seletski)
+### About me:
+> - Date of birth:&ensp;  **29.05.2000**<br/>
+> - Interests: ***proramming,&ensp; history,&ensp; travelling***<br/>
+> - The rule of my life: &ensp; **Fac officium, Deus providebit** &ensp; _(Do your duty, come what may)_<br/>
 
 ### Technical Experience
 **Luxoft IT School 2018**  @ [Luxoft Training](https://www.luxoft-training.ru/) 
@@ -23,6 +27,8 @@ _2018 - present_
 
 ### Accomplishments
 **Certificate Of Python Skills** @ [Luxoft Training](https://www.luxoft-training.ru/) 
+
+
 
 
 
