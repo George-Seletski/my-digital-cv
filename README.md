@@ -14,7 +14,8 @@ _Moscow,Russia_
 - Basics of **Assembler NASM**
 - Basics of Database Design **MY SQL**
 - Basics of **SQL** <br/>
-  _**Technologies used:**_ SQL, NASM, C++, C#, MY SQL
+  _**Technologies used:**_ SQL, NASM, C++, C#, MY SQL<br/>
+  <br/>
 
 **Luxoft IT School 2018**  @ [Luxoft Training](https://www.luxoft-training.ru/) 
 _(September 2018 - May 2019)_
