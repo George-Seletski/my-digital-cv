@@ -12,10 +12,10 @@ _Moscow,Russia_
 **Bauman MSTU**
 - Basics of **C++,C#**
 - Basics of **OOP & multithreading & Sockets**
-- Basics of Python
+- Basics of **Python**
 - Basics of Database Design **MY SQL**
 - Basics of **SQL** 
-- Basics of Git<br/>
+- Basics of **Git**<br/>
   _**Technologies used:**_ SQL, NASM, C++, C#, MY SQL, Sqlite3<br/>
   <br/>
 
