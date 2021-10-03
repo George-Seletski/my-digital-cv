@@ -5,16 +5,18 @@ _Moscow,Russia_
 ### About me:
 > Date of birth:&ensp;  **29.05.2000** <br/>
 > Interests: ***proramming,&ensp; history,&ensp; travelling***<br/>
-> The rule of my life: &ensp; **Fac officium, Deus providebit** _(Do your duty, come what may)_ <br/>
+> The rule of my life: &ensp; **Fac officium, Deus providebit**<br/>
+>  _(Use the means, and God will give the blessing)_ <br/>
 
 ### Technical Experience
 **Bauman MSTU**
 - Basics of **C++,C#**
-- Basics of **OOP and multithreading**
-- Basics of **Assembler NASM**
+- Basics of **OOP & multithreading & Sockets**
+- Basics of Python
 - Basics of Database Design **MY SQL**
-- Basics of **SQL** <br/>
-  _**Technologies used:**_ SQL, NASM, C++, C#, MY SQL<br/>
+- Basics of **SQL** 
+- Basics of Git<br/>
+  _**Technologies used:**_ SQL, NASM, C++, C#, MY SQL, Sqlite3<br/>
   <br/>
 
 **Luxoft IT School 2018**  @ [Luxoft Training](https://www.luxoft-training.ru/) 
