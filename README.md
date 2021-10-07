@@ -1,8 +1,7 @@
 # George Seletski
 _Moscow,Russia_ 
 
-***phone:***  +79697012268 
-</br>
+***phone:***  +79697012268 <br>
 ***email:***   geoseletskii2000@gmail.com 
 
 
