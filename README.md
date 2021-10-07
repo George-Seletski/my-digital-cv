@@ -1,5 +1,9 @@
 # George Seletski
-_Moscow,Russia_
+_Moscow,Russia_ 
+<p>
+***phone:***  +79697012268 </br>
+***email:***   geoseletskii2000@gmail.com <br/>
+</p>
 
 [Twitter](https://twitter.com/seletskygeo) / [DEV](https://dev.to/georgeseletski) / [GitHub](https://github.com/George-Seletski)
 ### About me:
@@ -7,9 +11,9 @@ _Moscow,Russia_
 > Interests: ***proramming,&ensp; history,&ensp; travelling***<br/>
 > The rule of my life: &ensp; **Fac officium, Deus providebit**<br/>
 >  _(Use the means, and God will give the blessing)_ <br/>
-> <h2>Contacts:</h2> 
-> <h3>phone:</h3> +79697012268 
-> <h3>email:</h3> geoseletskii2000@gmail.com 
+> <h3>Contacts:</h3> 
+> <h4>phone:</h4> +79697012268 
+> <h4>email:</h4> geoseletskii2000@gmail.com 
 
 ### Technical Experience
 **Bauman MSTU**
