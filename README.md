@@ -11,9 +11,6 @@ _Moscow,Russia_
 > Interests: ***proramming,&ensp; history,&ensp; travelling***<br/>
 > The rule of my life: &ensp; **Fac officium, Deus providebit**<br/>
 >  _(Use the means, and God will give the blessing)_ <br/>
-> <h3>Contacts:</h3> 
-> <h4>phone:</h4> +79697012268 
-> <h4>email:</h4> geoseletskii2000@gmail.com 
 
 ### Technical Experience
 **Bauman MSTU**
