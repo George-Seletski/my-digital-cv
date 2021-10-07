@@ -1,8 +1,9 @@
 # George Seletski
-_Moscow,Russia_ </br>
+_Moscow,Russia_ 
 
-***phone:***  +79697012268 </br>
-***email:***   geoseletskii2000@gmail.com <br/>
+***phone:***  +79697012268 
+</br>
+***email:***   geoseletskii2000@gmail.com 
 
 
 [Twitter](https://twitter.com/seletskygeo) / [DEV](https://dev.to/georgeseletski) / [GitHub](https://github.com/George-Seletski)
