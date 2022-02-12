@@ -1,8 +1,6 @@
 # George Seletski
 _Moscow,Russia_ 
 
-![personal photo](https://photos.app.goo.gl/Zy7TU1zWXsd3bwQd7)
-
 ***phone:***  +79697012268 <br>
 ***email:***   geoseletskii2000@gmail.com 
 
