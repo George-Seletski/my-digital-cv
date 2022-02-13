@@ -10,7 +10,7 @@ _Moscow,Russia_
 > Date of birth:&ensp;  **29.05.2000** <br/>
 > Interests: ***proramming,&ensp; history,&ensp; travelling***<br/>
 > The rule of my life: &ensp; **Fac officium, Deus providebit**<br/>
->  _(Use the means, and God will give the blessing)_ <br/>
+>  _(Do what you are to do and come what may.)_ <br/>
 
 ### Technical Experience
 **Bauman MSTU**
