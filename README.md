@@ -9,7 +9,7 @@ _Moscow,Russia_
 ### About me:
 > Date of birth:&ensp;  **29.05.2000** <br/>
 > Interests: ***proramming,&ensp; history,&ensp; travelling***<br/>
-> The rule of my life: &ensp; **Fac officium, Deus providebit**<br/>
+> The rule of my life: &ensp; **Fac officium, Deus providebit**
 >  _(Do what you are to do and come what may.)_ <br/>
 
 ### Technical Experience
