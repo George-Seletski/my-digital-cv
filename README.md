@@ -1,45 +1,77 @@
 # George Seletski
-_Moscow,Russia_ 
 
-***phone:***  +79697012268 <br>
-***email:***   geoseletskii2000@gmail.com 
+_Ankara,Turkey_
 
+[Twitter](https://twitter.com/seletskygeo) /  [GitHub](https://github.com/George-Seletski)
 
-[Twitter](https://twitter.com/seletskygeo) / [DEV](https://dev.to/georgeseletski) / [GitHub](https://github.com/George-Seletski)
-### About me:
-> Date of birth:&ensp;  **29.05.2000** <br/>
-> Interests: ***proramming,&ensp; history,&ensp; travelling***<br/>
-> The rule of my life: &ensp; **Fac officium, Deus providebit**
->  _(Do what you are to do and come what may.)_ <br/>
+## Personal Information
 
-### Technical Experience
-**Bauman MSTU**
-- Basics of **C++,C#**
-- Basics of **OOP & multithreading & Sockets**
-- Basics of **Python**
-- Basics of Database Design **MY SQL**
-- Basics of **SQL** 
-- Basics of **Git**<br/>
-  _**Technologies used:**_ SQL, NASM, C++, C#, MY SQL, Sqlite3<br/>
-  <br/>
+Date of birth:&ensp;  **29.05.2000** <br/>
+email: george.seletski@gmail.com 
 
-**Luxoft IT School 2018**  @ [Luxoft Training](https://www.luxoft-training.ru/) 
+**Personal skills:**
+<ul>
+<li>Responsible</li>
+<li>Teamwork</li>
+<li>Porpuseful</li>
+<li>Open-Minded</li>
+<li>Adaptable</li>
+<li>Time-manegemnt</li>
+
+</ul>
+
+## Education
+
+**Bachelour degree:** Informatics & Applied Mathematics <br>
+***Bauman Moscow State Technical University*** @ [MSTU](https://bmstu.ru/)
+_2018 - 2022_
+
+- Basics of **C++, C#, Python**
+- Basics of **OOP & Multithreading**
+- Basics of disigning databases  **MY SQL/SQLite**
+- Basics of **SQL** <br/>
+- Basics of **HTML/CSS/JS** <br/>
+  _**Technologies:**_ SQL, C++, C#, Python, MY SQL, Sqlite
+
+**Luxoft IT School 2018**  @ [Luxoft Training](https://www.luxoft-training.ru/)
 _(September 2018 - May 2019)_
-- Studied Basics of Python
-- Data Structers
-- And basics of API <br/>
- _**Technologies used:**_ Python, BotFather, Weather forecast API,Git
 
-### Languages 
-***Russian:*** Native<br/>
-***English:*** B2
+- Basics of Python
+- Data Structures
+- Basics of usage API <br/>
+ _**Technologies:**_ Python, BotFather, Weather forecast API,Git
 
-### Education
-`present`
-**Bachelor of Science** in Mathematics and Computer Science <br>
-***Bauman State Technical University*** in @ [MSTU](https://bmstu.ru/) 
-_2018 - present_
+</br>
 
-### Accomplishments
-**Certificate Of Python Skills** @ [Luxoft Training](https://www.luxoft-training.ru/) 
+## Experience
 
+**MTS Group** <br>_Sep 2021 - Dec 2021_ <br>
+<ul>
+<li>It was a great opportunity to broaden my mind about telecommunications work
+and height technologies can make a life for ordinary people better.</li>
+<li> During this
+Internship, I did analyse data of cell towers for the mobile networks and had to
+cluster all information chunks and analyse the capasite of regional towers. </li>
+<li>And this
+work helped the company to realise how to increase network bandwidth
+with minimal investment and improve the average velosity of mobile internet.</li>
+</ul>
+
+## Languages
+
+<ul>
+Russian: Native<br/>
+English: B2 (fluent)
+</ul><br/>
+
+## Awards
+
+[**Python Certificate**](https://drive.google.com/file/d/1onz5xqMBRoI46vv0mfwfdt9j9XlB1hrM/view?usp=sharing) @ [Luxoft Training](https://www.luxoft-training.ru/)
+
+<br>
+
+## Summary
+<ul>
+<li>Skilled team player with a strong background in Data environments. Works well independently to handle assignments and is always ready to go beyond basics assignments. Quick learner with good computer abilities.</li> <br>
+<li>Hardworking and reliable python coder focused on going above and beyond to support team and serve customers. Trained in Telegram-Bot development and offering top-notch developemnt abilities. Motivated to continue to learn and grow as Python Backend professional.</li>
+</ul>
