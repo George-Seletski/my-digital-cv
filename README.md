@@ -19,7 +19,6 @@ email: george.seletski@gmail.com
 <li>Time-manegemnt</li>
 
 </ul>
-
 ## Education
 
 **Bachelour degree:** Informatics & Applied Mathematics <br>
@@ -41,8 +40,6 @@ _(September 2018 - May 2019)_
 - Basics of usage API <br/>
  _**Technologies:**_ Python, BotFather, Weather forecast API,Git
 
-</br>
-
 ## Experience
 
 **MTS Group** <br>_Sep 2021 - Dec 2021_ <br>
@@ -62,13 +59,11 @@ with minimal investment and improve the average velosity of mobile internet.</li
 <ul>
 Russian: Native<br/>
 English: B2 (fluent)
-</ul><br/>
+</ul>
 
 ## Awards
 
 [**Python Certificate**](https://drive.google.com/file/d/1onz5xqMBRoI46vv0mfwfdt9j9XlB1hrM/view?usp=sharing) @ [Luxoft Training](https://www.luxoft-training.ru/)
-
-<br>
 
 ## Summary
 <ul>
