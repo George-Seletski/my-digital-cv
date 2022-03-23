@@ -1,15 +1,14 @@
-# George Seletski
+# George Seletski 
 
 _Ankara,Turkey_
 
 [Twitter](https://twitter.com/seletskygeo) /  [GitHub](https://github.com/George-Seletski) / [LinkedIn](https://www.linkedin.com/in/george-seletski/)
 
 
-## Personal Information
-
-Date of birth:&ensp;  **29.05.2000** <br/>
+## Contacts
 email: geokent89@gmail.com<br/>
 tel:+90 536 48 95 358 <br/>
+<br>
 
 **Personal skills:**
 <ul>
