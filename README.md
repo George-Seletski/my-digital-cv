@@ -2,12 +2,14 @@
 
 _Ankara,Turkey_
 
-[Twitter](https://twitter.com/seletskygeo) /  [GitHub](https://github.com/George-Seletski) / [LinedIn](https://www.linkedin.com/in/george-seletski/)
+[Twitter](https://twitter.com/seletskygeo) /  [GitHub](https://github.com/George-Seletski) / [LinkedIn](https://www.linkedin.com/in/george-seletski/)
+
 
 ## Personal Information
 
 Date of birth:&ensp;  **29.05.2000** <br/>
-email: george.seletski@gmail.com 
+email: geokent89@gmail.com<br/>
+tel:+90 536 48 95 358 <br/>
 
 **Personal skills:**
 <ul>
@@ -17,8 +19,9 @@ email: george.seletski@gmail.com
 <li>Open-Minded</li>
 <li>Adaptable</li>
 <li>Time-manegemnt</li>
-
+<li>Hardworking</li>
 </ul>
+
 ## Education
 
 **Bachelour degree:** Informatics & Applied Mathematics <br>
@@ -40,18 +43,18 @@ _(September 2018 - May 2019)_
 - Basics of usage API <br/>
  _**Technologies:**_ Python, BotFather, Weather forecast API,Git
 
-## Experience
 
-**MTS Group** <br>_Sep 2021 - Dec 2021_ <br>
+
+## Experience
+**MTS Group** <br> _(Sep 2021 - Dec 2021)_ <br>
 <ul>
-<li>It was a great opportunity to broaden my mind about telecommunications work
-and height technologies can make a life for ordinary people better.</li>
+<li>It was a great opportunity to broaden my mind about telecommunications work and high technologies can make a life for ordinary people better.</li>
 <li> During this
 Internship, I did analyse data of cell towers for the mobile networks and had to
-cluster all information chunks and analyse the capasite of regional towers. </li>
+cluster all information chunks and analyse the capacity of regional towers. </li>
 <li>And this
 work helped the company to realise how to increase network bandwidth
-with minimal investment and improve the average velosity of mobile internet.</li>
+with minimal investment and improve the average velocity of mobile internet.</li>
 </ul>
 
 ## Languages
@@ -63,10 +66,14 @@ English: B2 (fluent)
 
 ## Awards
 
-[**Python Certificate**](https://drive.google.com/file/d/1onz5xqMBRoI46vv0mfwfdt9j9XlB1hrM/view?usp=sharing) @ [Luxoft Training](https://www.luxoft-training.ru/)
+[Luxoft Training](https://www.luxoft-training.ru/)
+
+[**Python Certificate**](https://drive.google.com/file/d/1onz5xqMBRoI46vv0mfwfdt9j9XlB1hrM/view?usp=sharing)
+
 
 ## Summary
+
 <ul>
 <li>Skilled team player with a strong background in Data environments. Works well independently to handle assignments and is always ready to go beyond basics assignments. Quick learner with good computer abilities.</li> <br>
-<li>Hardworking and reliable python coder focused on going above and beyond to support team and serve customers. Trained in Telegram-Bot development and offering top-notch developemnt abilities. Motivated to continue to learn and grow as Python Backend professional.</li>
+<li>Hardworking and reliable python coder focused on going above and beyond to support team and serve customers. Trained in Telegram-Bot development and offering top-notch development abilities. Motivated to continue to learn and grow as Python Backend professional.</li>
 </ul>
