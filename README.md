@@ -6,7 +6,7 @@ _Ankara,Turkey_
 
 
 ## Contacts
-email: geokent89@gmail.com<br/>
+email:george.seletski@gmail.com<br/>
 tel:+90 536 48 95 358 <br/>
 <br>
 
