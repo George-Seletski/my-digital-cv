@@ -6,8 +6,8 @@ _Ankara,Turkey_
 
 
 ## Contacts
-email:george.seletski@gmail.com<br/>
-tel:+90 536 48 95 358 <br/>
+email: george.seletski@gmail.com<br/>
+tel: +90 536 48 95 358 <br/>
 <br>
 
 **Personal skills:**
