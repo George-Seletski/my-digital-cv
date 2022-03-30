@@ -1,30 +1,29 @@
-# George Seletski
+# George Seletski 
 
 _Ankara,Turkey_
 
-[Twitter](https://twitter.com/seletskygeo) /  [GitHub](https://github.com/George-Seletski) / [LinkedIn](https://www.linkedin.com/in/george-seletski/)
-
-
-## Personal Information
-
-Date of birth:&ensp;  **29.05.2000** <br/>
-email: geokent89@gmail.com<br/>
+## Contacts
+email: george.seletski@gmail.com<br/>
 tel:+90 536 48 95 358 <br/>
+[Skype](https://join.skype.com/invite/ewdArqiPgSAG) / [Telegram](https://t.me/George_Seletski) <br> 
 
-**Personal skills:**
+**Skills:**
 <ul>
-<li>Responsible</li>
-<li>Teamwork</li>
-<li>Porpuseful</li>
-<li>Open-Minded</li>
-<li>Adaptable</li>
-<li>Time-manegemnt</li>
-<li>Hardworking</li>
+<li>My primary experience is Python backend development with scalable, high-load microservice architecture. I love to create system design and implement it as well.
+</li>
+<li>Can write code in C++,HTML,CSS,R small experience with C#,JavaScript. </li>
+<li>Good with data structures and algorithms. Solid understanding of OOP principles.</li>
+<li>Have experience with: MySql, SQLite.</li>
+<li>Familiar with: Assembler.</li>
+<li> DevOps: Docker</li>
 </ul>
+
+
+
 
 ## Education
 
-**Bachelour degree:** Informatics & Applied Mathematics <br>
+**Bachelour degree:** Informatics & Applied Mathematics (system programmer) <br>
 ***Bauman Moscow State Technical University*** @ [MSTU](https://bmstu.ru/)
 _2018 - 2022_
 
@@ -48,14 +47,12 @@ _(September 2018 - May 2019)_
 ## Experience
 **MTS Group** <br> _(Sep 2021 - Dec 2021)_ <br>
 <ul>
-<li>It was a great opportunity to broaden my mind about telecommunications work and high technologies can make a life for ordinary people better.</li>
-<li> During this
-Internship, I did analyse data of cell towers for the mobile networks and had to
-cluster all information chunks and analyse the capacity of regional towers. </li>
-<li>And this
-work helped the company to realise how to increase network bandwidth
-with minimal investment and improve the average velocity of mobile internet.</li>
+<li> Analysed data of cell towers for the mobile networks and
+clustered all information chunks and analyse the capacity of regional towers. </li>
+
+ _**Technologies:**_  Technologies: Python, R, Tableu
 </ul>
+
 
 ## Languages
 
