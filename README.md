@@ -71,6 +71,6 @@ English: B2 (fluent)
 ## Summary
 
 <ul>
-<li>Skilled team player with a strong background in Data environments. Works well independently to handle assignments and is always ready to go beyond basics assignments. Quick learner with good computer abilities.</li> <br>
-<li>Hardworking and reliable python coder focused on going above and beyond to support team and serve customers. Trained in Telegram-Bot development and offering top-notch development abilities. Motivated to continue to learn and grow as Python Backend professional.</li>
+<li>Skilled team player with a background in Data environments. Works well independently to handle challenges and is always ready to go beyond basics tasks. Quick learner with good analytics abilities.</li> <br>
+<li>Hardworking and reliable python coder focused on going above and beyond to support team and serve customers. Motivated to continue to learn and grow as Python Backend professional.</li>
 </ul>
