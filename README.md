@@ -2,7 +2,7 @@
 
 _Ankara,Turkey_
 
-[Skype](https://join.skype.com/invite/ewdArqiPgSAG) /  [Telegram](@George_Seletski) / [LinkedIn](https://www.linkedin.com/in/george-seletski/)
+[Skype](https://join.skype.com/invite/ewdArqiPgSAG) /  [Telegram](https://t.me/George_Seletski) / [LinkedIn](https://www.linkedin.com/in/george-seletski/)
 
 
 ## Contacts
