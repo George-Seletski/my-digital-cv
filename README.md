@@ -2,7 +2,7 @@
 
 _Ankara,Turkey_
 
-[Twitter](https://twitter.com/seletskygeo) /  [GitHub](https://github.com/George-Seletski) / [LinkedIn](https://www.linkedin.com/in/george-seletski/)
+[Skype](https://join.skype.com/invite/ewdArqiPgSAG) /  [Telegram](@George_Seletski) / [LinkedIn](https://www.linkedin.com/in/george-seletski/)
 
 
 ## Contacts
