@@ -4,8 +4,7 @@ _Ankara,Turkey_
 
 ## Contacts
 email: george.seletski@gmail.com<br/>
-tel:+90 536 48 95 358 <br/>
-[Skype](https://join.skype.com/invite/ewdArqiPgSAG) / [Telegram](https://t.me/George_Seletski) <br> 
+tel:+90 536 48 95 358 <br/> 
 
 **Skills:**
 <ul>
@@ -46,12 +45,10 @@ _(September 2018 - May 2019)_
 
 ## Experience
 **MTS Group** <br> _(Sep 2021 - Dec 2021)_ <br>
-<ul>
-<li> Analysed data of cell towers for the mobile networks and
-clustered all information chunks and analyse the capacity of regional towers. </li>
+- Analysed data of cell towers for the mobile networks and
+clustered all information chunks and analyse the capacity of regional towers. <br/>
+_**Technologies:**_ Python, R
 
- _**Technologies:**_  Technologies: Python, R, Tableu
-</ul>
 
 
 ## Languages
