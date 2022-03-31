@@ -8,7 +8,7 @@ tel:+90 536 48 95 358 <br/>
 
 **Skills:**
 <ul>
-<li>My primary experience is Python backend development with scalable, high-load microservice architecture. I love to create system design and implement it as well.
+<li>My primary experience is Python Data Analysis. I love to make a detailed analysis and represent in easy-understanding manner.
 </li>
 <li>Can write code in C++,HTML,CSS,R small experience with C#,JavaScript. </li>
 <li>Good with data structures and algorithms. Solid understanding of OOP principles.</li>
