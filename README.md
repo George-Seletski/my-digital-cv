@@ -3,8 +3,7 @@
 george.seletski@gmail.com<br>
 
 ## Summary
-
->Hardworking and reliable python developer focused on going above and beyond to support team and serve customers. Motivated to continue to learn and grow as Python Backend professional.
+Hardworking and reliable python developer focused on going above and beyond to support team and serve customers. Motivated to continue to learn and grow as Python Backend professional.
 ## Experience
 **MTS Group** <br> _(Sep 2021 - Dec 2021)_ <br>
 - Analysed data of cell towers for the mobile networks and
