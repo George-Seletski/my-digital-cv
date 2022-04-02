@@ -2,9 +2,9 @@
 
 george.seletski@gmail.com<br>
 
-## About:
+## Summary
 
->Hardworking and reliable python coder focused on going above and beyond to support team and serve customers. Motivated to continue to learn and grow as Python Backend professional.
+>Hardworking and reliable python developer focused on going above and beyond to support team and serve customers. Motivated to continue to learn and grow as Python Backend professional.
 
 
 ## Experience
