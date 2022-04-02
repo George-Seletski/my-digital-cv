@@ -26,7 +26,7 @@ _**Technologies:**_ Python, R
   _**Technologies:**_ SQL, C++, C#, Python, MY SQL, Sqlite
 
 **Luxoft IT School 2018**  @ [Luxoft IT Training Center](https://www.luxoft-training.ru/)
-_(September 2018 - May 2019)_
+_(2018 - 2019)_
 
 - Basics of Python
 - Data Structures
