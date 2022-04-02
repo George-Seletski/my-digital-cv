@@ -44,10 +44,6 @@ _(2018 - May 2019)_
 <li>Languages: Russian (<em>Native</em>), English (<em>fluent</em>)
 </ul>
 
-## Awards
-
-[Luxoft IT Training Center](https://www.luxoft-training.ru/)
-[**Python Certificate**](https://drive.google.com/file/d/1onz5xqMBRoI46vv0mfwfdt9j9XlB1hrM/view?usp=sharing)
 
 
 
