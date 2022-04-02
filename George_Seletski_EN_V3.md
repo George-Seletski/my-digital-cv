@@ -23,7 +23,6 @@ _**Technologies:**_ Python, R
 - Basics of **OOP, Multithreading**
 - Basics of disigning databases  **MY SQL, SQLite**
 - Basics of **SQL** <br/>
-- Basics of **HTML/CSS/JS** <br/>
   _**Technologies:**_ SQL, C++, C#, Python, MY SQL, Sqlite
 
 **Luxoft IT School 2018**  @ [Luxoft IT Training Center](https://www.luxoft-training.ru/)
