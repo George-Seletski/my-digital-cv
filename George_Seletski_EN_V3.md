@@ -1,30 +1,18 @@
 # George Seletski 
 
-_Ankara,Turkey_
-
-## Contacts
-email: george.seletski@gmail.com<br/>
-tel:+90 536 48 95 358 <br/> 
-
-**Skills:**
-<ul>
-<liMy primary experience is Python Data Analysis. I love to make a detailed analysis and represent in easy-understanding manner.
-</li>
-<li>Can write code in C++,HTML,CSS,R small experience with C#,JavaScript. </li>
-<li>Good with data structures and algorithms. Solid understanding of OOP principles.</li>
-<li>Have experience with: MySql, SQLite.</li>
-<li>Familiar with: Assembler.</li>
-<li> DevOps: Docker</li>
-</ul>
-
-
-
+george.seletski@gmail.com<br>
++90 536 48 95 358 <br> 
+## Experience
+**MTS Group** <br> _(Sep 2021 - Dec 2021)_ <br>
+- Analysed data of cell towers for the mobile networks and
+clustered all information chunks and analyse the capacity of regional towers. <br/>
+_**Technologies:**_ Python, R
 
 ## Education
-
 **Bachelour degree:** Informatics & Applied Mathematics (system programmer) <br>
-***Bauman Moscow State Technical University*** @ [MSTU](https://bmstu.ru/)
-_2018 - 2022_
+***Bauman Moscow State Technical University*** _(2018 - 2022)_<br>
+[6th top Russian university rating](https://www.universityrankings.ch/results&ranking=QS&region=World&year=2021&q=Russia)
+
 
 - Basics of **C++, C#, Python**
 - Basics of **OOP & Multithreading**
@@ -43,20 +31,19 @@ _(September 2018 - May 2019)_
 
 
 
-## Experience
-**MTS Group** <br> _(Sep 2021 - Dec 2021)_ <br>
-- Analysed data of cell towers for the mobile networks and
-clustered all information chunks and analyse the capacity of regional towers. <br/>
-_**Technologies:**_ Python, R
-
-
-
-## Languages
-
+## Skills:
 <ul>
-Russian: Native<br/>
-English: B2 (fluent)
+<li>My primary experience is Python Data Analysis. I love to make a detailed analysis and represent in easy-understanding manner.
+</li>
+<li>Can write code in C++, R small experience with C#. </li>
+<li>Good with data structures and algorithms. Solid understanding of OOP principles.</li>
+<li>Have experience with: MySql, SQLite.</li>
+<li>Familiar with: Assembler.</li>
+<li> DevOps: Docker</li>
+<li>Languages: Russian (<em>Native</em>), English (<em>fluent</em>)
+
 </ul>
+
 
 ## Awards
 
