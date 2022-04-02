@@ -5,8 +5,6 @@ george.seletski@gmail.com<br>
 ## Summary
 
 >Hardworking and reliable python developer focused on going above and beyond to support team and serve customers. Motivated to continue to learn and grow as Python Backend professional.
-
-
 ## Experience
 **MTS Group** <br> _(Sep 2021 - Dec 2021)_ <br>
 - Analysed data of cell towers for the mobile networks and
@@ -26,7 +24,7 @@ _**Technologies:**_ Python, R
   _**Technologies:**_ SQL, C++, C#, Python, MY SQL, Sqlite
 
 **Luxoft IT School 2018**  @ [Luxoft IT Training Center](https://www.luxoft-training.ru/)
-_(2018 - 2019)_
+_(2018 - May 2019)_
 
 - Basics of Python
 - Data Structures
@@ -44,14 +42,11 @@ _(2018 - 2019)_
 <li>Have experience with: MySql, SQLite.</li>
 <li>Familiar with: Assembler.</li>
 <li>Languages: Russian (<em>Native</em>), English (<em>fluent</em>)
-
 </ul>
-
 
 ## Awards
 
 [Luxoft IT Training Center](https://www.luxoft-training.ru/)
-
 [**Python Certificate**](https://drive.google.com/file/d/1onz5xqMBRoI46vv0mfwfdt9j9XlB1hrM/view?usp=sharing)
 
 
