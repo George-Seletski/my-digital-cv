@@ -26,7 +26,7 @@ _**Technologies:**_ Python, R
 - Basics of **HTML/CSS/JS** <br/>
   _**Technologies:**_ SQL, C++, C#, Python, MY SQL, Sqlite
 
-**Luxoft IT School 2018**  @ [Luxoft Training](https://www.luxoft-training.ru/)
+**Luxoft IT School 2018**  @ [Luxoft IT Training Center](https://www.luxoft-training.ru/)
 _(September 2018 - May 2019)_
 
 - Basics of Python
@@ -51,7 +51,7 @@ _(September 2018 - May 2019)_
 
 ## Awards
 
-[Luxoft Training](https://www.luxoft-training.ru/)
+[Luxoft IT Training Center](https://www.luxoft-training.ru/)
 
 [**Python Certificate**](https://drive.google.com/file/d/1onz5xqMBRoI46vv0mfwfdt9j9XlB1hrM/view?usp=sharing)
 
