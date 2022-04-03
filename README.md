@@ -40,7 +40,7 @@ _(2018 - May 2019)_
 <li>Good with data structures and algorithms. Solid understanding of OOP principles.</li>
 <li>Have experience with: MySql, SQLite.</li>
 <li>Familiar with: Assembler.</li>
-<li>Languages: Russian (<em>Native</em>), English (<em>fluent</em>)
+  <li>Languages: Russian (<em>Native</em>), English (<em>fluent</em>)</li>
 </ul>
 
 ## Awards
