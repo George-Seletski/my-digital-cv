@@ -34,18 +34,13 @@ _(2018 - May 2019)_
 
 ## Skills
 <ul>
-<li>My primary experience is Python Data Analysis. I love to make a detailed analysis and represent in easy-understanding manner.
-</li>
+<li>My primary experience is Python Data Analysis. I love to make a detailed analysis and represent in easy-understanding manner.</li>
 <li>Can write code in C++, R small experience with C#. </li>
 <li>Good with data structures and algorithms. Solid understanding of OOP principles.</li>
 <li>Have experience with: MySql, SQLite.</li>
 <li>Familiar with: Assembler.</li>
-  <li>Languages: Russian (<em>Native</em>), English (<em>fluent</em>)</li>
+<li>Languages: Russian (<em>Native</em>), English (<em>fluent</em>)</li>
 </ul>
 
-## Awards
-[Luxoft Training](https://www.luxoft-training.ru/)
-
-[**Python Certificate**](https://drive.google.com/file/d/1onz5xqMBRoI46vv0mfwfdt9j9XlB1hrM/view?usp=sharing)
 
 
