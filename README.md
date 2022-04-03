@@ -10,6 +10,11 @@ Hardworking and reliable python developer focused on going above and beyond to s
 clustered all information chunks and analyse the capacity of regional towers. <br/>
 _**Technologies:**_ Python, R
 
+**Luxoft IT School** <br>
+_(September 2018 - May 2019)_
+- Developed Tekegram-bot ticket service<br/>
+_**Technologies:**_ Python, API
+
 ## Education
 **Bachelour degree:** Informatics & Applied Mathematics (system programmer) <br>
 ***Bauman Moscow State Technical University*** _(2018 - 2022)_<br>
