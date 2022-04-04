@@ -8,7 +8,7 @@ Hardworking and reliable python developer focused on going above and beyond to s
 **MTS Group** <br> _(Sep 2021 - Dec 2021)_ <br>
 - Analysed data of cell towers for the mobile networks and
 clustered all information chunks and analyse the capacity of regional towers. <br/>
-_**Technologies:**_ Python, R
+_**Technologies:**_ Python, Excel
 
 **Luxoft IT School** <br>
 _(September 2018 - May 2019)_
