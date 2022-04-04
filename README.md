@@ -12,7 +12,7 @@ _**Technologies:**_ Python, R
 
 **Luxoft IT School** <br>
 _(September 2018 - May 2019)_
-- Developed Telegram-bot ticket service<br/>
+- Developed Telegram bot for ticket service for local show<br/>
 _**Technologies:**_ Python, REST API
 
 **Institute of Genetics (Russian Sientific Acadamy)** <br>
