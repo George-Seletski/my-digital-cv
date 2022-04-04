@@ -12,7 +12,7 @@ _**Technologies:**_ Python, R
 
 **Luxoft IT School** <br>
 _(September 2018 - May 2019)_
-- Developed Tekegram-bot ticket service<br/>
+- Developed Telegram-bot ticket service<br/>
 _**Technologies:**_ Python, API
 
 ## Education
