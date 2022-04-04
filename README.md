@@ -13,7 +13,13 @@ _**Technologies:**_ Python, R
 **Luxoft IT School** <br>
 _(September 2018 - May 2019)_
 - Developed Telegram-bot ticket service<br/>
-_**Technologies:**_ Python, API
+_**Technologies:**_ Python, REST API
+
+**Institute of Genetics (Russian Sientific Acadamy)** <br>
+_(May 2021 - August 2022)_
+- Creating a knowledge graph based on BioData 
+- Analysing knowledge graph <br>
+_**Technologies:**_ Python, R
 
 ## Education
 **Bachelour degree:** Informatics & Applied Mathematics (system programmer) <br>
