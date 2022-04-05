@@ -1,5 +1,4 @@
 # George Seletski 
-
 george.seletski@gmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/george-seletski/) 
 ## Summary
@@ -12,14 +11,10 @@ _**Technologies:**_ Python, Excel
 
 **Luxoft IT School** <br>
 _(September 2018 - May 2019)_
-- Developed Telegram bot for ticket service for a local show<br/>
+- Taught Python for developing a Telegram bot for ticket service for a local show<br/>
 _**Technologies:**_ Python, REST API
 
-**Institute of Genetics (Russian Sientific Acadamy)** <br>
-_(May 2021 - August 2022)_
-- Creating a knowledge graph based on BioData 
-- Analysing knowledge graph <br>
-_**Technologies:**_ Python, R
+
 
 ## Education
 **Bachelour degree:** Informatics & Applied Mathematics (system programmer) <br>
