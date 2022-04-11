@@ -1,5 +1,5 @@
 # George Seletski 
-<a href="https://drive.google.com/file/d/1cJcGHaXUk8QmLmuMvyVXe7rceDaXNutP/view?usp=sharing">Download My CV</a><br>
+<a href="https://github.com/George-Seletski/my-digital-cv/blob/aedf59730cca9247bc235c816e03c7e49de9f04a/George_Seletski_EN.pdf">Download My CV</a><br>
 
 george.seletski@gmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/george-seletski/) 
