@@ -1,9 +1,8 @@
 # George Seletski 
+<a href="https://github.com/George-Seletski/my-digital-cv/blob/775ffa3f8997f47178e61bbda50ea79e5e8dc268/George_Seletski_EN.md" download="proposed_file_name">Download Resume</a>
 
 george.seletski@gmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/george-seletski/) 
-
-<a href="George_Seletski_EN.md" download="proposed_file_name">Download Resume</a>
 
 ## Summary
 Hardworking and reliable python developer focused on going above and beyond to support team and serve customers. Motivated to continue to learn and grow as Python Backend professional.
