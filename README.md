@@ -1,5 +1,4 @@
 # George Seletski 
-<a href="https://drive.google.com/file/d/1cJcGHaXUk8QmLmuMvyVXe7rceDaXNutP/view?usp=sharing" download="proposed_file_name">Download Resume</a>
 
 george.seletski@gmail.com<br>
 [LinkedIn](https://www.linkedin.com/in/george-seletski/) 
