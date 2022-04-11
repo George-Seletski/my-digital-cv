@@ -18,8 +18,9 @@ _**Technologies:**_ Python, REST API.
 
 ## Education
 **Bachelour degree:** Informatics & Applied Mathematics (system programmer) <br>
-***Bauman Moscow State Technical University*** _(2018 - 2022)_<br>
-[6th top Russian university rating](https://www.universityrankings.ch/results&ranking=QS&region=World&year=2021&q=Russia)
+***Bauman Moscow State Technical University*** 
+[6th top Russian university rating](https://www.universityrankings.ch/results&ranking=QS&region=World&year=2021&q=Russia)<br>
+(2018 - 2022) 
 
 
 - Basics of **C++, C#, Python, Assembler**.
@@ -28,8 +29,8 @@ _**Technologies:**_ Python, REST API.
 - Basics of **SQL** .<br/>
   _**Technologies:**_ SQL, C++, C#, Python, MY SQL, Sqlite.
 
-**Luxoft IT School 2018**  @ [Luxoft IT Training Center](https://www.luxoft-training.ru/)
-_(2018 - May 2019)_
+**Luxoft IT School 2018**  @ [Luxoft IT Training Center](https://www.luxoft-training.ru/)<br>
+(2018 - May 2019)
 
 - Basics of Python.
 - Data Structures.
