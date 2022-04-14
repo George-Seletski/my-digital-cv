@@ -13,9 +13,10 @@ clustered all information chunks and analyse the capacity of regional towers. <b
 _**Technologies:**_ Python, Excel
 
 **Luxoft IT School** <br>
-_(September 2018 - May 2019)_
-- Developed Telegram bot for ticket service for a local show<br/>
-_**Technologies:**_ Python, REST API
+_(September 2018 - May 2019)_ <br>
+- My coursework was the development of a Telegram bot for selling tickets to a local show.<br/>
+_**Technologies:**_ Python, REST API.
+
 
 **Institute of Genetics (Russian Sientific Acadamy)** <br>
 _(May 2021 - August 2022)_
