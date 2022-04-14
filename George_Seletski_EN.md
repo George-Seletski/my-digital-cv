@@ -10,8 +10,8 @@ clustered all information chunks and analyse the capacity of regional towers. <b
 _**Technologies:**_ Python, Excel.
 
 **Luxoft IT School** <br>
-_(September 2018 - May 2019)_
-- Taught Python for developing a Telegram bot for ticket service for a local show.<br/>
+_(September 2018 - May 2019)_ <br>
+- My coursework was the development of a Telegram bot for selling tickets to a local show.<br/>
 _**Technologies:**_ Python, REST API.
 
 
@@ -47,7 +47,7 @@ _**Technologies:**_ Python, REST API.
 <li>Have experience with: MySql, SQLite.</li>
 <li>Familiar with: Assembler.</li></ul>
 
-**Languages: Russian** (<em>Native</em>), English (<em>fluent</em>).</li>
+**Languages:** Russian (<em>Native</em>), English (<em>fluent</em>).</li>
 
 
 
